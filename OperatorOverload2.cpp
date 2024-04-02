@@ -26,7 +26,7 @@ public:
 
 int main() {
     Complex c1(5.5, 4.5);
-    Complex c2(1.5, 2.5);
+    Complex c2(1.5, 2.5);   
     Complex c3 = c1 + c2; // + operatörü aşırı yüklendi
 
     c3.display(); // Toplamı yazdır: 7 + 7i
