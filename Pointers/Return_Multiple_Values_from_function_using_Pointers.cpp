@@ -45,9 +45,4 @@ int main(){
     getMinAndMax(Numbers,5,&min,&max); // this will store the minimum and maximum value of the array
     cout << "Min: "<<min<<endl; // this will print the minimum value of the array
     cout << "Max: "<<max<<endl; // this will print the maximum value of the array
-
-
-
-
-
 }
